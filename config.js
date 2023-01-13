@@ -59,8 +59,8 @@ global.ppulsa = '087833306677' //Xl
 global.psaweria = 'https://saweria.com/amelcanss' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287852161042' //Nomor Bot
-global.nomorown = '087833306677' //Nomor Owner
+global.nomorbot = '6287732200388' //Nomor Bot
+global.nomorown = '0895412691100' //Nomor Owner
 global.namebot = 'FAHIL BOTz' //Nama Bot
 global.nameown = 'fahil' // Nama Owner
 
@@ -74,8 +74,8 @@ global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
-global.lolkey = 'apikeymu'
-global.xkey = 'APIKEYMU'
+global.lolkey = 'Xynoz'
+global.xkey = 'cristian9407'
 /*============== API ==============*/
 global.APIs = { // API Prefix
   // name: 'https://website'
